@@ -1,6 +1,6 @@
 <footer>
-    <div class="container text-center border border-light rounded-3 p-4">
-        © 2023 Copyright: !!!!
+    <div class="container text-center border border-light rounded-3 text-white p-4">
+        © 2024 Copyright: Rabeh Chadli, Romain, Orlane Esthésie
     </div>
 </footer>
 

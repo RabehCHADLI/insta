@@ -6,10 +6,4 @@ try {
 } catch (\Throwable $th) {
     die('erreur db');
 }
-
-
-
-
-
-
 ?>
